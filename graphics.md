@@ -1,5 +1,7 @@
-# Image manipulation
+# Graphics, CSS, etc.
 
-# CSS
+### Placeholders while developing
 
-# Websites
+Generate placeholder images with various configurations: `http://placehold.it`
+
+![Demo Image](http://placehold.it/100x100?text=demo+image)
