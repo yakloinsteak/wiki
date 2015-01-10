@@ -2,7 +2,7 @@
 
 ### Websites
 
-* [Color Scheme Designed](http://paletton.com/#uid=1000u0kllllaFw0g0qFqFg0w0aF)
+* [Color Scheme Designer](http://paletton.com/#uid=1000u0kllllaFw0g0qFqFg0w0aF)
 
 ### Tools
 
