@@ -1,19 +1,17 @@
-Welcome to Todd's collection of programming notes and other tidbids.
+# Welcome to Todd's collection of programming notes and other tidbids.
 
-# Ruby
+* [Ruby](ruby)
+* [Javascript](javascript)
+* [Graphic Design, CSS, etc.](graphics)
 
-# Javascript
-
-# Graphic Design, CSS, etc.
-
-## Placeholders while developing
+### Placeholders while developing
 
 Generate placeholder images with various configurations: `http://placehold.it`
 
 ![Demo Image](http://placehold.it/100x100?text=demo+image)
 
-# System Administration, Linux/Unix
+## System Administration, Linux/Unix
 
-# Tools
+## Tools
 
-# Software Engineering
+## Software Engineering
