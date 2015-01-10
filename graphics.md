@@ -1,9 +1,14 @@
 # Graphics, CSS, etc.
 
-
 ### Tools
 
 * `optipng -o7` is good for reducing the size of pngs.
+* `convert`
+* `identify`
+* `gimp`
+* `feh`
+* `pdftk`
+
 
 ### Placeholders while developing
 
