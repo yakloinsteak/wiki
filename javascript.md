@@ -14,3 +14,8 @@ yepnope
 JSON maps configuration wizard:
 
 http://gmaps-samples-v3.googlecode.com/svn/trunk/styledmaps/wizard/index.html
+
+
+## Testing
+
+http://jasmine.github.io/
