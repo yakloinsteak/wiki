@@ -18,3 +18,5 @@ Welcome to Todd's collection of programming notes and other tidbids.
 ## Quality and Process
 
 * [Software Engineering](engineering)
+* [Vim](vim)
+* [Tmux](tmux)
