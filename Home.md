@@ -3,10 +3,12 @@
 Welcome to Todd's collection of programming notes and other tidbids.
 
 ## Languages
+
 * [Ruby](ruby)
 * [Javascript](javascript)
 
 ## Front-end
+
 * [Graphic Design, CSS, etc.](graphics)
 * [Images](images)
 * [Fonts and Icons](fonts)
