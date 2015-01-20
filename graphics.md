@@ -5,6 +5,16 @@
 * Creating your own custom fonts with custom svg images at [IcoMoon](https://icomoon.io/)
 * [Syntactically Awesome Style Sheets](http://sass-lang.com)
 
+
+### Inspiration
+
+* http://www.pttrns.com/
+* https://www.pinterest.com/warmarc/flat-ui-design/
+* https://dribbble.com/Radium
+* https://dribbble.com/focuslab
+* https://dribbble.com/victorerixon
+
+
 ### Color
 
 * [Adobe color wheel](https://color.adobe.com/create/color-wheel/)
