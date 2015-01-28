@@ -16,7 +16,7 @@ Welcome to Todd's collection of programming notes and other tidbids.
 ## Back-end
 
 * [System Administration, Linux/Unix](sysadmin)
-* [HTTP Status Codes](http_codes.txt)
+* [HTTP Status Codes](http-codes)
 
 ## Quality and Process
 
