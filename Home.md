@@ -23,3 +23,4 @@ Welcome to Todd's collection of programming notes and other tidbids.
 * [Software Engineering](engineering)
 * [Vim](vim)
 * [Tmux](tmux)
+* [Bootstrapping Apps](bootstrapping)

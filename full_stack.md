@@ -21,11 +21,11 @@ Munin
 Cati
 Google Analytics
 
-## SEO
-
-## Social Media
+## SEO / Social Media
 
 add-this
+
+og tags for FB
 
 ## Third-party
 
