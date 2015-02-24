@@ -32,3 +32,4 @@
 * DNS management
 * Domain name registration
 * SSL certificates
+* vagrant init

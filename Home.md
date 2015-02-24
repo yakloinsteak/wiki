@@ -12,6 +12,7 @@ Welcome to Todd's collection of programming notes and other tidbids.
 * [Graphic Design, CSS, etc.](graphics)
 * [Images](images)
 * [Fonts and Icons](fonts)
+* [HTML and ARIA](html)
 
 ## Back-end
 
