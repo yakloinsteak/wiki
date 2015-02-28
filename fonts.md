@@ -4,6 +4,8 @@
 
 * Good range of characters is 45-75 per line.
 
+* Matrix of fonts provided by various suites: [http://media.24ways.org/2007/17/fontmatrix.html](http://media.24ways.org/2007/17/fontmatrix.html)
+
 ## Font Squirrel
 
 offers a tool to allow conversion of fonts to the full set required for websites
