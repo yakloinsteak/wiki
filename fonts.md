@@ -1,4 +1,8 @@
-# Font and icons resources
+# Font, typograph,  and icons resources
+
+## General Notes
+
+* Good range of characters is 45-75 per line.
 
 ## Font Squirrel
 
