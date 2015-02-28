@@ -6,13 +6,19 @@ offers a tool to allow conversion of fonts to the full set required for websites
 
 http://www.fontsquirrel.com
 
+## Using icon fonts
+
+* [http://css-tricks.com/using-fonts-for-icons/](http://css-tricks.com/using-fonts-for-icons/)
+
+* [http://pictos.cc/articles/using-icon-fonts/](http://pictos.cc/articles/using-icon-fonts/)
+
 ## Icons
 
 http://fortawesome.github.io/Font-Awesome/
 
 http://modernpictograms.com/
 
-## Font Foundry
+## Font Foundries
 
 * https://www.google.com/fonts
 * http://www.linotype.com

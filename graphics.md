@@ -31,6 +31,7 @@
 * `feh`
 * `pdftk`
 * [Google Web Designer](http://www.google.com/webdesigner)
+* Optimize svgs with [https://github.com/svg/svgo](https://github.com/svg/svgo)
 
 ### Placeholders while developing
 
@@ -38,4 +39,6 @@ Generate placeholder images with various configurations: `http://placehold.it`
 
 ![Demo Image](http://placehold.it/100x100?text=demo+image)
 
-### 
+### Responsive Images
+
+See [Responsive Images Page](responsive_images)

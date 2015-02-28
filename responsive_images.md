@@ -1,4 +1,4 @@
-# Images
+# Responsive Images
 
 
 ## `<picture>` element
@@ -11,7 +11,7 @@ http://responsiveimages.org/#implementation
     <picture>
       <source media="(min-width: 40em)"
         srcset="big.jpg 1x, big-hd.jpg 2x">
-      <source 
+      <source
         srcset="small.jpg 1x, small-hd.jpg 2x">
       <img src="fallback.jpg" alt="">
     </picture>
