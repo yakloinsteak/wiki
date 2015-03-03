@@ -11,8 +11,8 @@
 
 ## Prototyping
 
-[www.hotgloo.com](http://www.hotgloo.com/)
-
+* [www.hotgloo.com](http://www.hotgloo.com/)
+* balsamiq
 ## Placeholders while developing
 
 Generate placeholder images with various configurations: `http://placehold.it`
