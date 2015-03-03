@@ -11,3 +11,10 @@
 
 * Static analysis security scanner is available at http://brakemanscanner.org
 * http://guides.rubyonrails.org/security.html
+
+## Background Processing
+
+* sidekiq
+* resque
+* sucker\_punch
+* delayed\_job

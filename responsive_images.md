@@ -1,5 +1,7 @@
 # Responsive Images
 
+* [http://blog.cloudfour.com/sensible-jumps-in-responsive-image-file-sizes/](http://blog.cloudfour.com/sensible-jumps-in-responsive-image-file-sizes/)
+
 
 ## `<picture>` element
 
@@ -23,3 +25,14 @@ http://scottjehl.github.io/picturefill/
 ## `srcset` on image tags
 
 use `srcset` and `sizes` attributes. `srcset` is recommended with one alternative, a 2x version.
+
+## Responsive Image JavaScript
+
+* HiSRC: [https://github.com/teleject/hisrc](https://github.com/teleject/hisrc)
+* Foresight: [https://github.com/adambradley/foresight.js](https://github.com/adambradley/foresight.js)
+
+## Image Resizing Services
+
+* [www.resrc.it](http://www.resrc.it)
+* [www.thumbr.io](http://www.thumbr.io)
+* [responsive.io](http://responsive.io)

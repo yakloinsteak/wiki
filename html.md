@@ -1,5 +1,6 @@
 # HTML and ARIA
 
+
 ## HTML5 and ARIA Examples for copy/paste
 
     <!DOCTYPE html>
@@ -22,4 +23,5 @@
 
 ## Links
 
+* Validation [http://validator.w3.org/](http://validator.w3.org/)
 * Boilerplates at [www.initializr.com](http://www.initializr.com/)
