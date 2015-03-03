@@ -14,6 +14,10 @@
 * [www.hotgloo.com](http://www.hotgloo.com/)
 * balsamiq
 
+## Style Guides
+
+* https://github.com/bjankord/Style-Guide-Boilerplate
+
 ## Placeholders while developing
 
 Generate placeholder images with various configurations: `http://placehold.it`
