@@ -19,7 +19,7 @@
       max-width: 100%
 
 
-## Font no-brainers
+## Font Stack no-brainers
 
     body
       font-family: Baskerville, 'Times New Roman', Times, serif
