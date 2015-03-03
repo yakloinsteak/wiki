@@ -1,6 +1,8 @@
 # CSS
 
-* Test responsive dimentions/parameters as [http://mqtest.io](http://mqtest.io)
+* [Syntactically Awesome Style Sheets](http://sass-lang.com)
+
+* Test responsive dimensions/parameters as [http://mqtest.io](http://mqtest.io)
 
 * How grids work: [http://css-tricks.com/dont-overthink-it-grids/](http://css-tricks.com/dont-overthink-it-grids/)
 

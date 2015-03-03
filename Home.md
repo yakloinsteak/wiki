@@ -9,8 +9,10 @@ Welcome to Todd's collection of programming notes and other tidbids.
 
 ## Front-end
 
-* [Graphic Design, CSS, etc.](graphics)
-* [Responsiv Images](responsive_images)
+* [Image Tools, Third-party, and Prototyping](image-tools)
+* [Color](color)
+* [Inspiration](inspiration)
+* [Responsive Images](responsive_images)
 * [Fonts and Icons](fonts)
 * [HTML and ARIA](html)
 * [CSS](css)

@@ -1,5 +1,7 @@
 # Font, typograph,  and icons resources
 
+* Creating your own custom fonts with custom svg images at [IcoMoon](https://icomoon.io/)
+
 ## General Notes
 
 * Good range of characters is 45-75 per line.
