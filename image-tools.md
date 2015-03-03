@@ -7,7 +7,7 @@
 * `feh`
 * `pdftk`
 * [Google Web Designer](http://www.google.com/webdesigner)
-* Optimize svgs with [https://github.com/svg/svgo](https://github.com/svg/svgo)
+* Optimize svgs with [github.com/svg/svgo](https://github.com/svg/svgo)
 
 ## Prototyping
 
