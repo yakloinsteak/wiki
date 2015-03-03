@@ -5,7 +5,6 @@
 * Creating your own custom fonts with custom svg images at [IcoMoon](https://icomoon.io/)
 * [Syntactically Awesome Style Sheets](http://sass-lang.com)
 
-
 ### Inspiration
 
 * http://www.pttrns.com/
