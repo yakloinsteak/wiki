@@ -2,6 +2,7 @@
 
 * [http://blog.cloudfour.com/sensible-jumps-in-responsive-image-file-sizes/](http://blog.cloudfour.com/sensible-jumps-in-responsive-image-file-sizes/)
 
+* Aim for about 20KB between successive images when creating duplicates.
 
 ## `<picture>` element
 

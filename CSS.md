@@ -22,6 +22,19 @@
     img
       max-width: 100%
 
+    // Needs <html lang=en>
+    body
+      font-size: 100%
+
+      -webkit-hyphens: auto
+      -moz-hyphens: auto
+      -ms-hyphens: auto
+      -o-hyphens: auto
+      hyphens: auto
+
+      word-wrap: break-word
+      overflow-wrap: breakword
+
 
 ## Font Stack no-brainers
 
