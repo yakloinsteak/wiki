@@ -23,3 +23,8 @@ http://jasmine.github.io/
 ## Automation
 
 http://gruntjs.com/
+
+## Swipe
+
+* [TouchSwipe](http://labs.rampinteractive.co.uk/touchSwipe/demos/)
+* [Swipe](https://github.com/thebird/Swipe)
