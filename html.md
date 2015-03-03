@@ -1,6 +1,3 @@
-# HTML and ARIA
-
-
 ## HTML5 and ARIA Examples for copy/paste
 
     <!DOCTYPE html>

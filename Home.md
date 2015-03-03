@@ -30,3 +30,4 @@ Welcome to Todd's collection of programming notes and other tidbids.
 * [Vim](vim)
 * [Tmux](tmux)
 * [Bootstrapping Apps](bootstrapping)
+* [Testing](testing)

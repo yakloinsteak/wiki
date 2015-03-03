@@ -8,6 +8,10 @@
 
 * Theory of grid design: [http://grids.subtraction.com/](http://grids.subtraction.com/)
 
+* [CSS Validator](http://jigsaw.w3.org/css-validator)
+
+* Window resizer plugin for Chrome. Native in Firefox.
+
 
 ## Scratchpad of CSS boilerplate as SASS
     // Let's just avoid margin/padding calculations and call it a day.
