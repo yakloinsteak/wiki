@@ -4,6 +4,8 @@
 
 * Aim for about 20KB between successive images when creating duplicates.
 
+* [Which responsive solution should you use?](https://css-tricks.com/which-responsive-images-solution-should-you-use/)
+
 ## `<picture>` element
 
 To allow specification of multiple images depending on capabilities, use the picture element:
