@@ -12,6 +12,9 @@
 
 * Window resizer plugin for Chrome. Native in Firefox.
 
+* Transitions:[CSS Transitions](https://css-tricks.com/almanac/properties/t/transition/)
+
+
 
 ## Scratchpad of CSS boilerplate as SASS
     // Let's just avoid margin/padding calculations and call it a day.
