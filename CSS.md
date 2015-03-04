@@ -14,6 +14,8 @@
 
 * Transitions:[CSS Transitions](https://css-tricks.com/almanac/properties/t/transition/)
 
+* Fall-back rule: Convert from pixels to ems by dividing by 16.
+
 
 
 ## Scratchpad of CSS boilerplate as SASS
