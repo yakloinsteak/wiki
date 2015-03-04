@@ -34,3 +34,4 @@ Welcome to Todd's collection of programming notes and other tidbids.
 * [Tmux](tmux)
 * [Bootstrapping Apps](bootstrapping)
 * [Testing](testing)
+* [Performance](Performance)
