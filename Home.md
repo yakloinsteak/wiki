@@ -17,6 +17,7 @@ Welcome to Todd's collection of programming notes and other tidbids.
 * [HTML and ARIA](html)
 * [CSS](css)
 * [Mobile](mobile)
+* Top navs are more effective than left navs. Studies show.
 
 ## Back-end
 
